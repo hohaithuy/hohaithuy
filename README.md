@@ -11,15 +11,11 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hohaithuy Spotify Playing" width="350" />](https://open.spotify.com/user/4bg98ass1m8hlj828k4hq10z0)
-
-
-<br />
-
 ---
 
 <details>
   <summary>:zap: Languages and Tools </summary>
-  
+<br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
