@@ -2,11 +2,13 @@
 This is the places I share my workspace and have fun with coding :pig_nose:
 
 - 🔭 I’m currently trying to do something cool :wink:
-- 🌱 I’m currently learning CV and NLP
+- 🌱 I’m currently learning in UIT to become Machine Learning Scientist someday!
 - 💬 Ask me about anything
-- 📫 How to reach me: [@icanfeel._.you](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
 - ⚡ Fun fact: I :heart: :dog:s
+- [![alt text][http://i.imgur.com/P3YfQoD.png]][https://www.facebook.com/suzu2k1/]
+
 
 <!--
 **taolaobd/taolaobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
