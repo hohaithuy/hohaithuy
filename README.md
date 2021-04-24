@@ -4,7 +4,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 🔭 I’m currently trying to do something cool :wink:
 - 🌱 I’m currently learning in UIT to become Machine Learning Scientist someday!
 - 💬 Ask me about anything
-- 📫 How to reach me: ![alt text](./instagram.png)[@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
 - ⚡ Fun fact: I :heart: :dog:s
 - 
