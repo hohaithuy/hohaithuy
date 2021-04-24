@@ -5,21 +5,12 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 🌱 I’m currently learning in UIT to become Machine Learning Scientist someday!
 - 💬 Ask me about anything
 - 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or [@suzu2k1](https://www.facebook.com/suzu2k1/)
-- ⚡ Fun fact: I :heart: :dog:s
-- 
+- ⚡ Fun fact: I :heart: :dog:
 
 
-<!--
-**taolaobd/taolaobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **This week I spent my time on**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
