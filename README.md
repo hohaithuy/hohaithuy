@@ -7,7 +7,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
 - ⚡ Fun fact: I :heart: :dog:s
-- [![alt text][http://i.imgur.com/P3YfQoD.png]][https://www.facebook.com/suzu2k1/]
+- ![alt text](./instagram.png)
 
 
 <!--
