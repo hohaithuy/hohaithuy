@@ -5,7 +5,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 🌱 I’m currently learning in UIT to become Machine Learning Scientist someday!
 - 💬 Ask me about anything
 - 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or [@suzu2k1](https://www.facebook.com/suzu2k1/)
-- ⚡ Fun fact: I :heart: :dog:
+- :speak_no_evil: Fun fact: I :heart: :dog:
 
 
 ### Spotify Playing 🎧
@@ -14,7 +14,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 ---
 
 <details>
-  <summary>:zap: Languages and Tools </summary>
+  <summary>::hammer: Languages and Tools </summary>
 <br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,18 +28,12 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 
 <details>
-  <summary>:zap: GitHub stats</summary>
+  <summary>:bar_chart: GitHub stats</summary>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taolaobd&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-<details>
-  <summary>:zap: Language stats</summary>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taolaobd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 
 
