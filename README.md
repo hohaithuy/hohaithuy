@@ -9,8 +9,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 
 📊 **This week I spent my time on**
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=taolaobd&hide_title=true&hide_border=true&langs_count=5)
-
+  <img src="https://github.com/<taolaobd>/<taolaobd>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 <!-- BLOG-POST-LIST:START -->
 
