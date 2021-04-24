@@ -28,7 +28,16 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 
 
+
+<details>
+  <summary>:zap: GitHub stats</summary>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taolaobd&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taolaobd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
