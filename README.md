@@ -15,7 +15,10 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 <br />
 
-### Languages and Tools:
+
+<details>
+  <summary>:zap: ### Languages and Tools </summary>
+  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -24,6 +27,10 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+</details>
+
+
+
 
 
 
@@ -36,10 +43,15 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 </details>
 
-
-
-
+<details>
+  <summary>:zap: Language stats</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taolaobd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+
 
 <!--Available in the future**-->
 
