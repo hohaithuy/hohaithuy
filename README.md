@@ -15,9 +15,10 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 <br />
 
+---
 
 <details>
-  <summary>:zap: ### Languages and Tools </summary>
+  <summary>:zap: Languages and Tools </summary>
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,12 +30,6 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 <br />
 </details>
 
-
-
-
-
-
----
 
 <details>
   <summary>:zap: GitHub stats</summary>
