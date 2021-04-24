@@ -29,7 +29,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 <details>
   <summary>:bar_chart: GitHub stats</summary>
-  
+  <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taolaobd&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
