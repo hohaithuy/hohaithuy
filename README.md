@@ -7,10 +7,6 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or [@suzu2k1](https://www.facebook.com/suzu2k1/)
 - :speak_no_evil: Fun fact: I :heart: :dog:
 
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hohaithuy Spotify Playing" width="350" />](https://open.spotify.com/user/4bg98ass1m8hlj828k4hq10z0)
 ---
 
 <details>
