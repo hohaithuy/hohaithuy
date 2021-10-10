@@ -8,11 +8,11 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or [@suzu2k1](https://www.facebook.com/suzu2k1/)
 - :speak_no_evil: Fun fact: I :heart: :dog:
 
-<details style="font-size:3em;">
+<details>
   <summary>:hammer: Languages and Tools </summary>
   </br>
   
-👨‍💻 Programming languages
+<h4>👨‍💻 Programming languages</h4>
 <p>
     <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
