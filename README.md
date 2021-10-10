@@ -9,7 +9,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - :speak_no_evil: Fun fact: I :heart: :dog:
 
 <details>
-  <summary>:hammer: Languages and Tools </summary>
+  <summary style="font-size:1.5em;">:hammer: Languages and Tools </summary>
   </br>
   
 👨‍💻 Programming languages
