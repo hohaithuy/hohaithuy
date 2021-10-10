@@ -8,7 +8,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 - 📫 How to reach me: [@icanfeel._.you](https://www.instagram.com/icanfeel._.you/) or [@suzu2k1](https://www.facebook.com/suzu2k1/)
 - :speak_no_evil: Fun fact: I :heart: :dog:
 
-<details style="font-size:1.5em;">
+<details style="font-size:3em;">
   <summary>:hammer: Languages and Tools </summary>
   </br>
   
