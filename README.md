@@ -10,9 +10,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
 
 <details>
   <summary>:hammer: Languages and Tools </summary>
-  </br>
-  
-<h5>👨‍💻 Programming languages</h5>
+<h6>👨‍💻 Programming languages</h6>
 <p>
     <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -27,7 +25,8 @@ This is the places I share my workspace and have fun with coding :pig_nose:
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
   
-🧰 Frameworks and libraries
+
+<h6>🧰 Frameworks and libraries</h6>
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
@@ -39,9 +38,8 @@ This is the places I share my workspace and have fun with coding :pig_nose:
     <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white"></a>
 
 </p>
-
-🗄️ Databases and cloud hosting
-
+  
+<h6>🗄️ Databases and cloud hosting</h6>
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
