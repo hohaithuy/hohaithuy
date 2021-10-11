@@ -22,7 +22,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&logoColor=white%22"></a>
+    <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&logoColor=white%22"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
   
@@ -37,7 +37,7 @@ This is the places I share my workspace and have fun with coding :pig_nose:
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white"></a>
-
+    <a href="#"><img alt="ApacheAirflow" src="https://img.shields.io/badge/Airflow-017CEE.svg?logo=Apache%20Airflow&logoColor=white%22"></a>
 </p>
   
 <h6>🗄️ Databases and cloud hosting</h6>
